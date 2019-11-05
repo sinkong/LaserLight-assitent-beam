@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "usercode.h": "c",
+        "task.h": "c",
+        "lptmr1.h": "c",
+        "clockman1.h": "c",
+        "pin_mux.h": "c",
+        "cpu.h": "c"
+    }
+}
